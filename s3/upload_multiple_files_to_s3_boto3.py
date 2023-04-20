@@ -3,12 +3,6 @@
 """
 A python script that uploads multiple files to s3 using boto3
 """
-#!/usr/bin/env python3.7
-
-"""
-A python script that uploads multiple files to s3 using boto3
-"""
-
 
 import boto3
 import os
